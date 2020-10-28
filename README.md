@@ -1,4 +1,4 @@
-# Laravel + Docker
+# Blog built with Laravel + React
 
 ## Required
 
