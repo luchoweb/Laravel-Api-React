@@ -1,0 +1,20 @@
+# Others
+.vscode/
+
+# Blog files
+/blog/node_modules
+/blog/public/hot
+/blog/public/storage
+/blog/storage/*.key
+/blog/vendor
+/blog/.phpunit.result.cache
+/blog/Homestead.json
+/blog/Homestead.yaml
+/blog/npm-debug.log
+/blog/yarn-error.log
+
+# React files
+/front/node_modules
+/front/package-lock.json
+/front/yarn-error.log
+/front/npm-debug.log
