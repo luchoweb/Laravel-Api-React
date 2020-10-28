@@ -4,9 +4,9 @@
 
 > You need to have installed next software.
 
--   Docker
--   PHP
--   Composer
+- Docker
+- PHP
+- Composer
 
 ## Laravel Installation
 
@@ -16,6 +16,10 @@ $ cd Laravel-Api-React/blog
 $ composer install
 $ docker-compose up -d
 ```
+
+Now you can go to http://localhost:8080
+
+> You can change this port (8080) in docker-compose.yml
 
 ## Create MySQL user
 
@@ -37,9 +41,11 @@ $ cd front/
 $ npm install
 ```
 
-Ready!
-Now you can go to http://localhost:8080
+## Start React serve
 
-> You can change this port (8080) in docker-compose.yml
+```bash
+$ cd front/
+$ npm start
+```
 
 Happy coding!
